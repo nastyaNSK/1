@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\sibsuti\ооп 2 семместр\consoleapplication1\consoleapplication1\source.cpp(108): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\Sibsuti\ООП 2 семместр\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\Sibsuti\ООП 2 семместр\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
